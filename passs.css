@@ -1,0 +1,45 @@
+p{
+    color: rgb(255, 255, 255);
+}
+.blue{
+ color:blue;
+}
+textarea{
+    padding: 15px 15px 15px 15px;
+    display: block;
+}
+.button {
+    background-color: #2cc732; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px 15px 32px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    display: run-in;
+    font-size: 16px;
+    border-radius: 25px;
+  }
+
+  .button1 {
+    background-color: #2cc732; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 25px;
+  }
+  
+  .button:hover{
+      color: black;
+  }
+
+
+  div{
+      margin: auto;
+      height: 400px;
+      width: 500px;
+      background-color: rgb(109, 109, 109);
+      padding: 15px 15px 15px 15px
+  }
