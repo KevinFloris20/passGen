@@ -25,7 +25,7 @@ function generatePassword(){
         var length = 12;
         }
         else if(document.getElementById("short").disabled == true){
-            var length = 8;
+            var length = 124;
         }
     
     //char set

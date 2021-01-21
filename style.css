@@ -7,6 +7,8 @@ p{
 textarea{
     padding: 15px 15px 15px 15px;
     display: block;
+    width: 80%;
+    height: 150px;
 }
 .button {
     background-color: #2cc732; /* Green */
