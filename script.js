@@ -1,5 +1,4 @@
 
-window.onload = function() { 
 //the vArs 
 var createbutton = document.querySelector("#Buttonfunction");
 //-----------------------------------------------------------------------Old code-------------------------------
@@ -196,4 +195,4 @@ createbutton.addEventListener("click", generatePassword);
 // button7.addEventListener("click", numbercasebutton);
 //-----------------------------------------------------------------------Old code-------------------------------
 
-};
+
