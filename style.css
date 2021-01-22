@@ -1,10 +1,11 @@
 p{
     color: rgb(255, 255, 255);
+    font-size: 20px;
 }
 .blue{
  color:blue;
 }
-textarea{
+#textarea1{
     padding: 15px 15px 15px 15px;
     display: block;
     width: 80%;
@@ -38,7 +39,7 @@ textarea{
   }
 
 
-  div{
+  #a{
       margin: auto;
       height: 400px;
       width: 500px;
